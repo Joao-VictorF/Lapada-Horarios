@@ -15,7 +15,7 @@
     "axios": "^0.18.0",
     "connect-history-api-fallback": "^1.6.0",
     "core-js": "^3.4.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "vue": "^2.6.10",
     "vue-dragscroll": "^1.10.2",
     "vue-router": "^3.1.3",
